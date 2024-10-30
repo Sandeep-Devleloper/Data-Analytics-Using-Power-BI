@@ -47,4 +47,4 @@ The implementation of this inventory dashboard led to:
 Contributions to improve this dashboard or add features are welcome. Feel free to open a pull request or submit issues.
 
 ### Contact
-For questions or further collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:youremail@example.com).
+For questions or further collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/middesandeepkumar/) or [Email](mailto:sandeep.kumar.m.intern@gmail.com).
