@@ -1,5 +1,6 @@
 
 # Blinkit Inventory Management Dashboard
+![blinkit](https://github.com/user-attachments/assets/0c5ef36a-bc6c-4327-bb5a-dce6cd1cfa1f)
 
 ### Overview
 This repository contains a Power BI-driven interactive dashboard designed to optimize inventory management for Blinkit, a leading online grocery platform. Leveraging data analytics, DAX formulas, Power Query, and custom visualizations, the dashboard provides actionable insights into inventory dynamics, helping stakeholders monitor and enhance key performance indicators (KPIs). By implementing this solution, Blinkit realized a **14% improvement** in inventory efficiency.
@@ -47,5 +48,3 @@ Contributions to improve this dashboard or add features are welcome. Feel free t
 
 ### Contact
 For questions or further collaboration, please reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or [Email](mailto:youremail@example.com).
-
-![blinkit](https://github.com/user-attachments/assets/0c5ef36a-bc6c-4327-bb5a-dce6cd1cfa1f)
